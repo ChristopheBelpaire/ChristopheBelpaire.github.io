@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-analytics
 
+google_analytics: G-0XRZMK9JDS
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: G-0XRZMK9JDS        # Required - replace with your tracking id
